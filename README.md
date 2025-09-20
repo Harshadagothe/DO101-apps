@@ -1,3 +1,3 @@
 # DO101-apps
 
-Apps for the DO101 course.
+DO101-apps/express-helloworld/app.js
